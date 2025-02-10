@@ -1,1 +1,0 @@
-# wics-demo-site
